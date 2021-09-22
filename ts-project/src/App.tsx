@@ -10,7 +10,7 @@ function App() {
       <MainNavBar />
       <Container>
         <main>
-          <SearchandSongs song="Search"/>
+          <SearchandSongs title="test"/>
         </main>
       </Container>
     </>
